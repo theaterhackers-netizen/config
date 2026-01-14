@@ -1,25 +1,18 @@
-
 {
-  "netflix": [
+  "steam": [
     {
-      "username": "eray@example.com",
-      "password": "password"
-    },
-    {
-      "username": "test2@example.com",
-      "password": "abc123456"
+      "username": "195436gtx970",
+      "password": "195436edU."
     }
   ],
   "valorant": [
     {
-      "username": "user_valo_1",
-      "password": "valo_pass_1"
+      "username": "CrazzyMoM18",
+      "password": "dodos22asd"
     },
     {
-      "username": "user_valo_2",
-      "password": "valo_pass_2"
+      "username": "krevmy54",
+      "password": "0535686805769S"
     }
   ]
 }
-
-
