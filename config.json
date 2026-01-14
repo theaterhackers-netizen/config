@@ -3,7 +3,7 @@
   "netflix": [
     {
       "username": "eray@example.com",
-      "password": "password123"
+      "password": "password"
     },
     {
       "username": "test2@example.com",
@@ -21,4 +21,5 @@
     }
   ]
 }
+
 
